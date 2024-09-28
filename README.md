@@ -57,6 +57,6 @@ The CLI is designed to be interactive, prompting the user for inputs to complete
 * Use the interactive CLI to perform various operations.
 
 ### Example Commands:
-Add a Room: Enter the room type, price, and availability status.
-Add a Booking: Enter customer details, room type, and check-in/check-out dates.
-Generate Reports: View room occupancy and financial summaries.
+* Add a Room: Enter the room type, price, and availability status.
+* Add a Booking: Enter customer details, room type, and check-in/check-out dates.
+* Generate Reports: View room occupancy and financial summaries.
